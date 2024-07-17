@@ -11,5 +11,6 @@ public class Lab026
         System.out.println(c1);
         System.out.println(character);
         System.out.println(grade);
+        //can i change the data type in between of program : no
     }
 }
