@@ -1,5 +1,7 @@
 package ex_20072024;
 
+import java.util.Scanner;
+
 public class Lab122 {
     public static void main(String[] args) {
         //Program to Find the Largest Among Three Numbers:
