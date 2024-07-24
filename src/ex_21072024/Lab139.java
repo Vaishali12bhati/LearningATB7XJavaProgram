@@ -1,5 +1,5 @@
 package ex_21072024;
-//mix loop with condition
+//mix loop with condition for and if
 public class Lab139 {
     public static void main(String[] args) {
         for (int i = 1; i < 7; i++) {
