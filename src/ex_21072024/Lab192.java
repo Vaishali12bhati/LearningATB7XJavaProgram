@@ -17,7 +17,7 @@ public class Lab192 {
                         max = Salary[i];
                     }
                 }
-            System.out.println("the max salary is " + max);
+            System.out.println("the max salary is " +Salary[0]);
             }
         }
     }
