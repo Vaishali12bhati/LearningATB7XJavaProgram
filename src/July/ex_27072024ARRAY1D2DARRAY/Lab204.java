@@ -1,4 +1,4 @@
-package July.ex_28072024OOPSCLASSOBJECT.ex_27072024ARRAY1D2DARRAY;
+package July.ex_27072024ARRAY1D2DARRAY;
 //imp  topic of String
 public class Lab204 {
     public static void main(String[] args) {

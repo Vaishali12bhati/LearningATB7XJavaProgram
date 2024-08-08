@@ -8,15 +8,18 @@ public class Lab113 {
         Scanner s = new Scanner(System.in);
         System.out.println("enter the product no from 001 to 006");
         int itemcode = s.nextInt();
-        switch (itemcode){
-            case 001,002,003:
+        switch (itemcode) {
+            case 001, 002, 003:
                 System.out.println("electrical product");
                 break;
-            case 004,005,006:
+            case 004, 005, 006:
                 System.out.println("mechanical product");
                 break;
             default:
                 System.out.println("currently we dont have info");
                 break;
         }
+    }
+}
+
     
