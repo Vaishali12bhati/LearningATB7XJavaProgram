@@ -1,4 +1,4 @@
-package ex_04082024Constructor;
+package August.ex_04082024Constructor;
 //constructor : special type of method in java
 //same as class name
 //always called with the new keyword

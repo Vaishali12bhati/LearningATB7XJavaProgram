@@ -1,4 +1,4 @@
-package ex_04082024Constructor;
+package August.ex_04082024Constructor;
 //Design a class Employee with three instance variables:
 // name (a String), id (an int), and salary (a double).
 // Write a default constructor that assigns "John Doe" to name, 0 to id, and 50000.0 to salary.

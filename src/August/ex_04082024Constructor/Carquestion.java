@@ -1,4 +1,4 @@
-package ex_04082024Constructor;
+package August.ex_04082024Constructor;
 //Write a Java class Car that has two instance variables: model (a String) and year (an int).
 // Implement a default constructor that sets model to "Unknown" and year to 0. Also,
 // implement a parameterized constructor
