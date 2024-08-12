@@ -1,4 +1,4 @@
-package August.ex_04082024Constructor;
+package August.ex_04082024.ex_04082024Constructor;
 
 public class Lab217localvariable {
     int e = 45;// instance variable

@@ -1,4 +1,4 @@
-package August.ex_04082024Constructor;
+package August.ex_04082024.ex_04082024Constructor;
 
 public class Lab221carques {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package August.ex_04082024Constructor;
+package August.ex_04082024.ex_04082024Constructor;
 //Create a class Rectangle with two instance variables length and width (both double).
 // Write a default constructor that sets length and width to 1.0. Also,
 // write a parameterized constructor that takes two arguments to set length and width.

@@ -1,4 +1,4 @@
-package August.ex_04082024Constructor;
+package August.ex_04082024.ex_04082024Constructor;
 //default constructor
 //name should be name as the class name
 // we can create only 1 constructor
