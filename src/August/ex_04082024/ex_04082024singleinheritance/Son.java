@@ -1,4 +1,4 @@
-package August.ex_04082024singleinheritance;
+package August.ex_04082024.ex_04082024singleinheritance;
 
 public class Son extends Father{
     //extended keyword here copy the father class in the son class
