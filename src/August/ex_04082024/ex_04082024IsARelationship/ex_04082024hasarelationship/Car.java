@@ -1,4 +1,4 @@
-package August.ex_04082024Relationship.ex_04082024IsARelationship.ex_04082024hasarelationship;
+package August.ex_04082024.ex_04082024IsARelationship.ex_04082024hasarelationship;
 //called as aggregation concept
 public class Car {
     protected void  start_the_car()

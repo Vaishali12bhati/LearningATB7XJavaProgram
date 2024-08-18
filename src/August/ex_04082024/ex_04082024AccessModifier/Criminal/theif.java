@@ -1,6 +1,6 @@
-package August.ex_04082024AccessModifier.Criminal;
+package August.ex_04082024.ex_04082024AccessModifier.Criminal;
 
-import August.ex_04082024AccessModifier.Police.cop;
+import August.ex_04082024.ex_04082024AccessModifier.Police.cop;
 //public : theif is able to see all the details
 public class theif {
     public static void main(String[] args) {

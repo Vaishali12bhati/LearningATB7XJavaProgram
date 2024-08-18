@@ -1,4 +1,4 @@
-package August.ex_04082024AccessModifier;
+package August.ex_04082024.ex_04082024AccessModifier;
 
 public class Lab226 {
     //public : cant have two public in a class

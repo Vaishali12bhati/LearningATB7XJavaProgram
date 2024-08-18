@@ -1,4 +1,4 @@
-package August.ex_04082024Relationship.ex_04082024IsARelationship.isArelationship;
+package August.ex_04082024.ex_04082024IsARelationship.isArelationship;
 // is a is used in inheritance
 public class Bank {
     //bank , icic

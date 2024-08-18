@@ -1,4 +1,4 @@
-package August.ex_04082024AccessModifier.Police;
+package August.ex_04082024.ex_04082024AccessModifier.Police;
 
 public class Student {
   private   String name;
