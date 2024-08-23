@@ -10,4 +10,9 @@ public enum enumcolorexample {
     enumcolorexample(String hexvalue) {
         this.hexvalue = hexvalue;
     }
+    public String getvalue()
+    {
+        return hexvalue;
+    }
+
 }

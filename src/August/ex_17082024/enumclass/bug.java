@@ -6,5 +6,6 @@ public class bug {
         System.out.println(Lab247enumclassex.high);
         System.out.println(Lab248enumex.chatbot);
         System.out.println(enumcolorexample.BLUE);
+        System.out.println(enumcolorexample.BLUE.getvalue());
     }
 }
