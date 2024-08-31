@@ -1,4 +1,4 @@
-package August.ex_18082024.CollectionFramework.arrayandcollectionframework;
+package August.ex_18082024.CollectionFramework.arrayandcollectionframework.comparatorable;
 //uisng comparator interface we have our own comparision logic
 //when we have to sort the data with different basses
 import java.util.ArrayList;

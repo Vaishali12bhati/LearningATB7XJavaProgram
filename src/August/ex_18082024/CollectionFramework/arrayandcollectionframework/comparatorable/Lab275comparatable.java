@@ -1,4 +1,4 @@
-package August.ex_18082024.CollectionFramework.arrayandcollectionframework;
+package August.ex_18082024.CollectionFramework.arrayandcollectionframework.comparatorable;
 // by comparable we cannot sort the more than one thing at a time so for that we use compator
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package August.ex_18082024.CollectionFramework.List.linkedlist;
+package August.ex_18082024.CollectionFramework.arrayandcollectionframework.list.List.linkedlist;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

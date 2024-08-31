@@ -1,4 +1,4 @@
-package August.ex_18082024.CollectionFramework.arrayandcollectionframework;
+package August.ex_18082024.CollectionFramework.arrayandcollectionframework.list.List.arraylist;
 
 import java.util.ArrayList;
 import java.util.List;

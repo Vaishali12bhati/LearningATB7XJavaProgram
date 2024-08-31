@@ -1,4 +1,4 @@
-package August.ex_18082024.CollectionFramework.List.Stack;
+package August.ex_18082024.CollectionFramework.arrayandcollectionframework.list.List.Stack;
 
 import java.util.Stack;
 
